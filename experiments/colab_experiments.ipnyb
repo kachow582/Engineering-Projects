@@ -1,1 +1,2 @@
-
+# Colab experiment notebook
+print("Hello from Colab 🚀")
